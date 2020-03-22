@@ -2,11 +2,11 @@
 
 ### list of topics
 
-* [ ] hello world
-* [ ] variables
-* [ ] packages
-* [ ] functions
-* [ ] conditionals
+* [x] hello world
+* [x] variables
+* [x] packages
+* [x] functions
+* [x] conditionals
 * [ ] loops
 * [ ] Array and slices
 * [ ] Maps
